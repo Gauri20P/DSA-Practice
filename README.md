@@ -9,6 +9,15 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Language
 - C++
 
+## Folder Structure
+
+```text
+DSA-Practice/
+├── Algorithms/
+├── CSES/
+└── LeetCode/
+```
+
 ## Purpose
 
 - Strengthen problem-solving skills.
@@ -17,12 +26,4 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 - Prepare for coding interviews and competitive programming.
 
 This repository will be updated regularly as I continue solving new problems and learning new concepts.
-
-## Folder Structure
-
-DSA-Practice/
-├── Algorithms/
-├── CSES/
-└── LeetCode/
-
 Happy Coding! 🚀
